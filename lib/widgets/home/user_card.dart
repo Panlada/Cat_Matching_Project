@@ -63,7 +63,7 @@ class UserCard extends StatelessWidget {
                             hasStroke: true,
                           )
                         : Container(),
-                    const SizedBox(height: 10),
+                    const SizedBox(height: 9),
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
